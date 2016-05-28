@@ -1,0 +1,9 @@
+-asteroids:2-3 types more
+
+
+-sounds:
+explosion 
+engine
+buttons
+-music:
+2-3 songs

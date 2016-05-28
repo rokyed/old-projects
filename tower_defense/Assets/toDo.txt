@@ -1,0 +1,54 @@
+==========gameArt:
+theme to select:
+
+==========gamework:
+
+:ai: 
+-walk
+-pathfind
+
+:towers:
+-aim 
+-fire for the first in the trigger zone
+
+:hq:
+-health damage points
+
+:camera:
+-3dsmax like 
+-limited scroll 
+-30 to 80 degree inclination
+-turn no limits
+
+:gui:
+
+-tower buttons
+-price
+-hq health
+
+
+==========menu:
+
+:game prepare:
+-map
+-difficulty
+
+
+
+:options:
+
+-video resolution
+-video quality
+
+-sound music volume
+-sound fx volume
+
+
+
+
+:credits:
+
+
+
+Game Project Lead: 
+Andrei Bazavan

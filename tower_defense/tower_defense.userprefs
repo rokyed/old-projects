@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\controls\cameraFlyScript.js">
+    <Files>
+      <File FileName="Assets\scripts\playerRelated\aiTurret.js" Line="76" Column="38" />
+      <File FileName="Assets\scripts\enemyRelated\bot.js" Line="49" Column="23" />
+      <File FileName="Assets\scripts\enemyRelated\botSpawnScript.js" Line="6" Column="29" />
+      <File FileName="Assets\scripts\controls\cameraFlyScript.js" Line="60" Column="70" />
+      <File FileName="Assets\scripts\menuAndMouseRelated\playerStats.js" Line="10" Column="19" />
+      <File FileName="Assets\scripts\menuAndMouseRelated\gameplayMenuScript.js" Line="21" Column="4" />
+      <File FileName="Assets\scripts\menuAndMouseRelated\guiBuildMenu.js" Line="70" Column="25" />
+      <File FileName="Assets\scripts\menuAndMouseRelated\cameraBuildScript.js" Line="22" Column="83" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
